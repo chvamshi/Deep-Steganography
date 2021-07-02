@@ -1,0 +1,2 @@
+This is an example for Git test
+Hello, my name is vamshi
